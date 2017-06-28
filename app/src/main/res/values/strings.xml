@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">District9</string>
+    <string name="login">Identifiant</string>
+    <string name="pass">Mot de passe</string>
+    <string name="desc">Identifiant : admin / Mot de passe : password</string>
+    <string name="success">Connection réussie !</string>
+    <string name="fail">Connection echouée !</string>
+    <string name="bonjour">Bienvenue</string>
+    <string name="recherche">Recherche</string>
+    <string name="appeler_btn">Call</string>
+    <string name="arrondissement">district :</string>
+    <string name="description">describing :</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">District9</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="desc">Login : admin / Password : password</string>
+    <string name="success">Log successful !</string>
+    <string name="fail">Log fail !</string>
+    <string name="bonjour">Welcome</string>
+</resources>
